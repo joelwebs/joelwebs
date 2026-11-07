@@ -73,7 +73,7 @@ A multi-tenant school management platform concept designed for remedial and cras
 
 ## Connect With Me
 
-- GitHub: [@joel-30551](https://github.com/joel-30551)
+- GitHub: [@joel-30551](https://github.com/joelwebs)
 
 ---
 
